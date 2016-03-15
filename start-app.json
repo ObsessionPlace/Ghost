@@ -1,0 +1,13 @@
+[
+  {
+    "name": "ghost-blog",
+    "script": "index.js",
+    "cwd": "/home/appuser/ghost",
+    "error_file": "ghost-blog-err.log",
+    "out_file": "ghost-blog-out.log",
+    "pid_file": "ghost-blog.pid",
+    "env":{
+      "NODE_ENV": "production"
+    }
+  }
+]
